@@ -1,3 +1,4 @@
+# PH 10.2018
 
 dataInput = """
 AAGGGGJJJ
