@@ -75,10 +75,10 @@
         <mark key="." line="69" column="23" />
         <mark key="^" line="65" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/snake_solver/snake.py" timestamp="1539423423594">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="16" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/snake_solver/snake.py" timestamp="1539434255495">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/CodeWars/unitHashtag.py" timestamp="1539205053217">
         <mark key="[" line="41" column="0" />
@@ -110,7 +110,7 @@
     <jumps />
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm93ID0gW10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG5vdCBzZWxmLnN0YXJ0X2ZpZWxkCg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -129,7 +129,7 @@
 '.'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm93ID0gW10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG5vdCBzZWxmLnN0YXJ0X2ZpZWxkCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -152,28 +152,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjeCA9IGRhdGFJbnB1dC5zdHJpcCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cng9ZGF0YUlucHV0LnN0cmlwKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcm93ID0gW10K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cng9ZGF0YUlucHV0LnN0cmlwKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Zm9yIGYgaW4geDoKICAgIHByaW50KGYpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB4ID0gZGF0YUlucHV0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Zm9yIGYgaW4geDoKICAgIHByaW50KGYpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB4ID0gZGF0YUlucHV0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
