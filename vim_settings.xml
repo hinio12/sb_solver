@@ -23,6 +23,12 @@
       <file name="/Python Console" timestamp="1539440432662">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/snake_solver/UnitTest.py" timestamp="1539443403946">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="27" />
+        <mark key="^" line="13" column="27" />
+        <mark key="." line="13" column="27" />
+      </file>
       <file name="/a.dummy" timestamp="1539338820559">
         <mark key="[" line="0" column="0" />
       </file>
@@ -75,12 +81,11 @@
         <mark key="." line="69" column="23" />
         <mark key="^" line="65" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/snake_solver/snake.py" timestamp="1539442186656">
-        <mark key="'" line="43" column="29" />
-        <mark key="[" line="70" column="14" />
-        <mark key="]" line="33" column="20" />
-        <mark key="^" line="33" column="20" />
-        <mark key="." line="70" column="18" />
+      <file name="$USER_HOME$/PycharmProjects/snake_solver/snake.py" timestamp="1539444135145">
+        <mark key="'" line="47" column="29" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/CodeWars/unitHashtag.py" timestamp="1539205053217">
         <mark key="[" line="41" column="0" />
@@ -127,20 +132,20 @@
       <jump line="43" column="29" filename="$USER_HOME$/PycharmProjects/snake_solver/snake.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>able</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgI3NlbGYubW92ZXMuYXBwZW5kKHNlbGYuc3RhcnRfZW5kWzBdLmV4dGVuZChbMCwtMV0pKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>able</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YWJsZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoInZlcnRpY2FsIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5tb3Zlcy5hcHBlbmQoc2VsZi5zdGFydF9lbmRbMF0uZXh0ZW5kKFswLC0xXSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgI3NlbGYuaG9yaXpvbnRhbC5hcHBlbmQoW3QxLXNlbGYubWF4WCAtIDEsZWxdKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgI3NlbGYubW92ZXMuYXBwZW5kKHNlbGYuc3RhcnRfZW5kWzBdLmV4dGVuZChbMCwtMV0pKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -162,29 +167,31 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgI3NlbGYudmVydGljYWwuYXBwZW5kKFt0MSwgZWxdKQo=</text>
+      <register name="2" type="8">
+        <text>#
+#
+#</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJ0aWNhbF9kYXRhX3N0YXJ0PUZhbHNlCiAgICAgICAgdmVydGljYWxfZGF0YV9zdG9wPUZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNzdChpbnB1dDEpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnZlcnRpY2FsID0ge30KICAgICAgICBzZWxmLmhvcml6b250YWwgPSB7fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgI3NlbGYuaG9yaXpvbnRhbC5hcHBlbmQoW3QxLXNlbGYubWF4WCAtIDEsZWxdKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0MSsxCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgI3NlbGYudmVydGljYWwuYXBwZW5kKFt0MSwgZWxdKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGVtcCA9IHQxLXNlbGYubWF4WAo=</text>
+        <text encoding="base64">ICAgICAgICB2ZXJ0aWNhbF9kYXRhX3N0YXJ0PUZhbHNlCiAgICAgICAgdmVydGljYWxfZGF0YV9zdG9wPUZhbHNlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoImhvcml6b250YWwiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
