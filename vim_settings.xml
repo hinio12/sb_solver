@@ -81,11 +81,11 @@
         <mark key="." line="69" column="23" />
         <mark key="^" line="65" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/snake_solver/snake.py" timestamp="1539444135145">
-        <mark key="'" line="47" column="29" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/snake_solver/snake.py" timestamp="1539457835093">
+        <mark key="'" line="46" column="29" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/CodeWars/unitHashtag.py" timestamp="1539205053217">
         <mark key="[" line="41" column="0" />
@@ -133,19 +133,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgI3NlbGYubW92ZXMuYXBwZW5kKHNlbGYuc3RhcnRfZW5kWzBdLmV4dGVuZChbMCwtMV0pKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBsYXN0X21vdmUgPT0gMQo=</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>vertical</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YWJsZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5tb3Zlcy5hcHBlbmQoc2VsZi5zdGFydF9lbmRbMF0uZXh0ZW5kKFswLC0xXSkpCg==</text>
+        <text encoding="base64">cHJpbnQoc3MudmVydGljYWwpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgI3NlbGYubW92ZXMuYXBwZW5kKHNlbGYuc3RhcnRfZW5kWzBdLmV4dGVuZChbMCwtMV0pKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBsYXN0X21vdmUgPT0gMQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -167,31 +167,29 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="8">
-        <text>#
-#
-#</text>
+      <register name="2" type="2">
+        <text encoding="base64">cHJpbnQoc3MudGFibGUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNzdChpbnB1dDEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJOZXcgbGluZSIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnZlcnRpY2FsID0ge30KICAgICAgICBzZWxmLmhvcml6b250YWwgPSB7fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoInZlcnRpY2FsIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgI3NlbGYuaG9yaXpvbnRhbC5hcHBlbmQoW3QxLXNlbGYubWF4WCAtIDEsZWxdKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQgKCJ0MSB7fSBzZWxmIG1heCB7fSB0ZW1wICIuZm9ybWF0KHQxLGVsKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgI3NlbGYudmVydGljYWwuYXBwZW5kKFt0MSwgZWxdKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJ0aWNhbF9kYXRhX3N0YXJ0PUZhbHNlCiAgICAgICAgdmVydGljYWxfZGF0YV9zdG9wPUZhbHNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnZlcnRpY2FsKQogICAgICAgIHByaW50KHNlbGYuaG9yaXpvbnRhbCkKCiAgICAgICAgcHJpbnQoc2VsZi50YWJsZSkKICAgICAgICAjcHJpbnQoc2VsZi5zdGFydF9lbmQpCiAgICAgICAgcHJpbnQoc2VsZi5tb3ZlcykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgI3NlbGYubW92ZXMuYXBwZW5kKHNlbGYuc3RhcnRfZW5kWzBdLmV4dGVuZChbMCwtMV0pKQo=</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
