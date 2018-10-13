@@ -20,7 +20,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1539421723629">
+      <file name="/Python Console" timestamp="1539440432662">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1539338820559">
@@ -75,12 +75,12 @@
         <mark key="." line="69" column="23" />
         <mark key="^" line="65" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/snake_solver/snake.py" timestamp="1539439607301">
-        <mark key="'" line="58" column="19" />
-        <mark key="[" line="48" column="41" />
-        <mark key="]" line="48" column="42" />
-        <mark key="." line="48" column="42" />
-        <mark key="^" line="51" column="38" />
+      <file name="$USER_HOME$/PycharmProjects/snake_solver/snake.py" timestamp="1539442186656">
+        <mark key="'" line="43" column="29" />
+        <mark key="[" line="70" column="14" />
+        <mark key="]" line="33" column="20" />
+        <mark key="^" line="33" column="20" />
+        <mark key="." line="70" column="18" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/CodeWars/unitHashtag.py" timestamp="1539205053217">
         <mark key="[" line="41" column="0" />
@@ -113,30 +113,34 @@
       <jump line="49" column="25" filename="$USER_HOME$/PycharmProjects/snake_solver/snake.py" />
       <jump line="54" column="19" filename="$USER_HOME$/PycharmProjects/snake_solver/snake.py" />
       <jump line="51" column="25" filename="$USER_HOME$/PycharmProjects/snake_solver/snake.py" />
+      <jump line="66" column="20" filename="$USER_HOME$/PycharmProjects/snake_solver/snake.py" />
+      <jump line="50" column="8" filename="$USER_HOME$/PycharmProjects/snake_solver/snake.py" />
       <jump line="55" column="19" filename="$USER_HOME$/PycharmProjects/snake_solver/snake.py" />
+      <jump line="58" column="46" filename="$USER_HOME$/PycharmProjects/snake_solver/snake.py" />
+      <jump line="59" column="20" filename="$USER_HOME$/PycharmProjects/snake_solver/snake.py" />
+      <jump line="63" column="31" filename="$USER_HOME$/PycharmProjects/snake_solver/snake.py" />
+      <jump line="64" column="64" filename="$USER_HOME$/PycharmProjects/snake_solver/snake.py" />
+      <jump line="70" column="14" filename="$USER_HOME$/PycharmProjects/snake_solver/snake.py" />
+      <jump line="25" column="13" filename="$USER_HOME$/PycharmProjects/snake_solver/snake.py" />
+      <jump line="33" column="21" filename="$USER_HOME$/PycharmProjects/snake_solver/snake.py" />
+      <jump line="42" column="29" filename="$USER_HOME$/PycharmProjects/snake_solver/snake.py" />
+      <jump line="43" column="29" filename="$USER_HOME$/PycharmProjects/snake_solver/snake.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZlcnRpY2FsX2RhdGFfc3RhcnQgPSBUcnVlCg==</text>
+      <register name="&quot;" type="4">
+        <text>able</text>
       </register>
       <register name="-" type="4">
-        <text>was_end_line</text>
+        <text>able</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2ZXJ0aWNhbFw+</text>
+        <text encoding="base64">XDx0YWJsZVw+</text>
       </register>
-      <register name="0" type="8">
-        <text>'.'
-'.'
-'.'
-'.'
-'.'
-'.'
-'.'
-'.'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoInZlcnRpY2FsIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZlcnRpY2FsX2RhdGFfc3RhcnQgPSBUcnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgI3NlbGYuaG9yaXpvbnRhbC5hcHBlbmQoW3QxLXNlbGYubWF4WCAtIDEsZWxdKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -159,37 +163,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2U6IHZlcnRpY2FsX2RhdGFfc3RvcAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgI3NlbGYudmVydGljYWwuYXBwZW5kKFt0MSwgZWxdKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLnZlcnRpY2FsLmFwcGVuZChlbCkK</text>
+        <text encoding="base64">ICAgICAgICB2ZXJ0aWNhbF9kYXRhX3N0YXJ0PUZhbHNlCiAgICAgICAgdmVydGljYWxfZGF0YV9zdG9wPUZhbHNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGVsIT0iXG4iOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHZlcnRpY2FsX2RhdGFfc3RhcnQgYW5kIG5vdCB2ZXJ0aWNhbF9kYXRhX3N0b3ApOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLnZlcnRpY2FsLmFwcGVuZChlbCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0MSsxCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGVtcCA9IHQxLXNlbGYubWF4WAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLmhvcml6b250YWwuYXBwZW5kKGVsKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoImhvcml6b250YWwiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHdhc19lbmRfbGluZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2ZXJ0aWNhbFw+</last-search>
+      <last-search encoding="base64">XDx0YWJsZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2ZXJ0aWNhbFw+</last-pattern>
+      <last-pattern encoding="base64">XDx0YWJsZVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -211,6 +215,8 @@
         <entry encoding="base64">XDxjeWNsZV9jb3VudGVyXD4=</entry>
         <entry encoding="base64">XDxob3Jpem9udGFsXD4=</entry>
         <entry encoding="base64">XDx2ZXJ0aWNhbFw+</entry>
+        <entry encoding="base64">XDx0MVw+</entry>
+        <entry encoding="base64">XDx0YWJsZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
