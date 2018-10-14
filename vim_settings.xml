@@ -84,12 +84,12 @@
         <mark key="." line="69" column="23" />
         <mark key="^" line="65" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/snake_solver/snake.py" timestamp="1539544093586">
-        <mark key="'" line="46" column="29" />
-        <mark key="[" line="30" column="28" />
-        <mark key="]" line="30" column="28" />
-        <mark key="^" line="30" column="19" />
-        <mark key="." line="30" column="28" />
+      <file name="$USER_HOME$/PycharmProjects/snake_solver/snake.py" timestamp="1539545086922">
+        <mark key="'" line="79" column="8" />
+        <mark key="[" line="107" column="39" />
+        <mark key="]" line="92" column="43" />
+        <mark key="^" line="92" column="43" />
+        <mark key="." line="107" column="43" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/CodeWars/unitHashtag.py" timestamp="1539205053217">
         <mark key="[" line="41" column="0" />
@@ -134,22 +134,24 @@
       <jump line="33" column="21" filename="$USER_HOME$/PycharmProjects/snake_solver/snake.py" />
       <jump line="42" column="29" filename="$USER_HOME$/PycharmProjects/snake_solver/snake.py" />
       <jump line="43" column="29" filename="$USER_HOME$/PycharmProjects/snake_solver/snake.py" />
+      <jump line="69" column="33" filename="$USER_HOME$/PycharmProjects/snake_solver/snake.py" />
+      <jump line="79" column="8" filename="$USER_HOME$/PycharmProjects/snake_solver/snake.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>down_check</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0YWJsZVw+</text>
+        <text>check</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHVwX2NoZWNrID0gW1stMSwtMV0sWzEsLTFdXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGRpcmVjdGlvbiA9PSBTbmFrZVNvbHZlci5kb3duOgogICAgICAgICAgICAgICAgICAgIGlmIHNlbGYuY2hlY2tfbGlzdChTbmFrZVNvbHZlci5kb3duX2NoZWNrKToKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIFRydWUKICAgICAgICAgICAgICAgICAgICBlbHNlOiByZXR1cm4gRmFsc2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoc3MubGVmdCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -172,37 +174,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBUcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB1cCAgICA9IFsgMCwtMV0KICAgICAgICByaWdodCA9IFsrMSwgMF0KICAgICAgICBsZWZ0ICA9IFstMSwgMF0KICAgICAgICBkb3duICA9IFsgMCwrMV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB4ID0gMAogICAgICAgIHkgPSAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICBpZiAwPD0gCg==</text>
       </register>
-      <register name="5" type="8">
-        <text>[y+d[1]],</text>
+      <register name="5" type="2">
+        <text encoding="base64">cHJpbnQoc3MubGVmdCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB1cCAgICA9IFsgMCwtMV0KICAgICAgICByaWdodCA9IFsrMSwgMF0KICAgICAgICBsZWZ0ICA9IFstMSwgMF0KICAgICAgICBkb3duICA9IFsgMCwrMV0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkaWMgPSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB4ID0gMAogICAgICAgIHkgPSAwCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFRydWUK</text>
+      <register name="9" type="8">
+        <text>[y+d[1]],</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0YWJsZVw+</last-search>
+      <last-search>check</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0YWJsZVw+</last-pattern>
+      <last-pattern>check</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -226,6 +228,7 @@
         <entry encoding="base64">XDx2ZXJ0aWNhbFw+</entry>
         <entry encoding="base64">XDx0MVw+</entry>
         <entry encoding="base64">XDx0YWJsZVw+</entry>
+        <entry>check</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
