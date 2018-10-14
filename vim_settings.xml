@@ -84,12 +84,12 @@
         <mark key="." line="69" column="23" />
         <mark key="^" line="65" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/snake_solver/snake.py" timestamp="1539545086922">
+      <file name="$USER_HOME$/PycharmProjects/snake_solver/snake.py" timestamp="1539547785325">
         <mark key="'" line="79" column="8" />
-        <mark key="[" line="107" column="39" />
-        <mark key="]" line="92" column="43" />
-        <mark key="^" line="92" column="43" />
-        <mark key="." line="107" column="43" />
+        <mark key="[" line="159" column="15" />
+        <mark key="]" line="159" column="16" />
+        <mark key="^" line="83" column="31" />
+        <mark key="." line="159" column="16" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/CodeWars/unitHashtag.py" timestamp="1539205053217">
         <mark key="[" line="41" column="0" />
@@ -138,17 +138,17 @@
       <jump line="79" column="8" filename="$USER_HOME$/PycharmProjects/snake_solver/snake.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>down_check</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>check</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGRpcmVjdGlvbiA9PSBTbmFrZVNvbHZlci5kb3duOgogICAgICAgICAgICAgICAgICAgIGlmIHNlbGYuY2hlY2tfbGlzdChTbmFrZVNvbHZlci5kb3duX2NoZWNrKToKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIFRydWUKICAgICAgICAgICAgICAgICAgICBlbHNlOiByZXR1cm4gRmFsc2UK</text>
+      <register name="0" type="4">
+        <text>self.table[y+el[1]][x+el[0]]==&quot;.&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
