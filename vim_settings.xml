@@ -48,6 +48,12 @@
         <mark key="^" line="119" column="43" />
         <mark key="." line="119" column="43" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/TrainLog/sample1.py" timestamp="1539721713061">
+        <mark key="[" line="27" column="13" />
+        <mark key="]" line="27" column="16" />
+        <mark key="^" line="27" column="16" />
+        <mark key="." line="27" column="16" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/CodeWars/binaryMultiple_tests.py" timestamp="1537301164153">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
@@ -136,19 +142,20 @@
       <jump line="43" column="29" filename="$USER_HOME$/PycharmProjects/snake_solver/snake.py" />
       <jump line="69" column="33" filename="$USER_HOME$/PycharmProjects/snake_solver/snake.py" />
       <jump line="79" column="8" filename="$USER_HOME$/PycharmProjects/snake_solver/snake.py" />
+      <jump line="1320" column="8" filename="/usr/lib/python2.7/lib-tk/ttk.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>elo</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>elo</text>
       </register>
       <register name="/" type="4">
         <text>check</text>
       </register>
-      <register name="0" type="4">
-        <text>self.table[y+el[1]][x+el[0]]==&quot;.&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">dHJlZS50YWdfY29uZmlndXJlKCdvZGRyb3cnLCBiYWNrZ3JvdW5kPSJvcmFuZ2UiKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
