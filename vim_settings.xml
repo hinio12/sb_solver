@@ -9,25 +9,8 @@
         <mark key="^" line="23" column="52" />
         <mark key="." line="23" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539550055428">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="16" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/sb_solver/sb_solver.py" timestamp="1539419852931">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-      </file>
       <file name="/Python Console" timestamp="1539527158663">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/snake_solver/UnitTest.py" timestamp="1539443403946">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="13" column="27" />
-        <mark key="^" line="13" column="27" />
-        <mark key="." line="13" column="27" />
       </file>
       <file name="/fragment.py" timestamp="1539527102315">
         <mark key="[" line="0" column="0" />
@@ -35,42 +18,18 @@
       <file name="/a.dummy" timestamp="1539338820559">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/CodeWars/maszyna_losujaca.py" timestamp="1537553711662">
-        <mark key="[" line="8" column="18" />
-        <mark key="]" line="8" column="18" />
-        <mark key="^" line="8" column="18" />
-        <mark key="." line="8" column="18" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/Sfinks/starBattle.py" timestamp="1539419075523">
+      <file name="$USER_HOME$/PycharmProjects/TrainLog/sample1.py" timestamp="1539805095929">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="159" column="9" />
-        <mark key="^" line="119" column="43" />
-        <mark key="." line="119" column="43" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/TrainLog/sample1.py" timestamp="1539803260496">
-        <mark key="'" line="23" column="12" />
-        <mark key="[" line="30" column="8" />
-        <mark key="]" line="30" column="8" />
-        <mark key="^" line="30" column="11" />
-        <mark key="." line="30" column="8" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/CodeWars/binaryMultiple_tests.py" timestamp="1537301164153">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="14" />
-        <mark key="^" line="0" column="14" />
-        <mark key="." line="0" column="14" />
+        <mark key="]" line="38" column="14" />
+        <mark key="." line="31" column="4" />
+        <mark key="^" line="30" column="4" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/CodeWars/rgbToHex.py" timestamp="1537304514987">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
         <mark key="^" line="17" column="21" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/CodeWars/hashtaggen.py" timestamp="1539207078945">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/TrainLog/sample3.py" timestamp="1539802085427">
         <mark key="[" line="25" column="27" />
@@ -83,18 +42,6 @@
         <mark key="]" line="13" column="0" />
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/TrainLog/sample2.py" timestamp="1539800029773">
-        <mark key="[" line="39" column="15" />
-        <mark key="]" line="39" column="19" />
-        <mark key="." line="39" column="19" />
-        <mark key="^" line="39" column="19" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/CodeWars/stackeballs2d.py" timestamp="1539197989943">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="2" column="16" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/CodeWars/mineswaper.py" timestamp="1537561799014">
         <mark key="'" line="30" column="9" />
@@ -110,12 +57,6 @@
         <mark key="^" line="83" column="31" />
         <mark key="." line="159" column="16" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/CodeWars/unitHashtag.py" timestamp="1539205053217">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="35" column="204" />
-        <mark key="." line="41" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/Sfinks/sbUnitTests.py" timestamp="1539356608876">
         <mark key="'" line="128" column="34" />
         <mark key="[" line="124" column="37" />
@@ -123,18 +64,86 @@
         <mark key="^" line="125" column="38" />
         <mark key="." line="125" column="38" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/LogAnalyzeTool/logtool.py" timestamp="1537130017820">
-        <mark key="[" line="25" column="28" />
-        <mark key="]" line="25" column="33" />
-        <mark key="^" line="25" column="33" />
-        <mark key="." line="25" column="33" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/CodeWars/queen_moves.py" timestamp="1539259288459">
         <mark key="'" line="3" column="5" />
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
         <mark key="^" line="52" column="47" />
         <mark key="." line="55" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1539550055428">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/sb_solver/sb_solver.py" timestamp="1539419852931">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/TrainLog/attempt1.py" timestamp="1539806189393">
+        <mark key="[" line="38" column="7" />
+        <mark key="]" line="38" column="10" />
+        <mark key="." line="38" column="10" />
+        <mark key="^" line="38" column="10" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/snake_solver/UnitTest.py" timestamp="1539443403946">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="27" />
+        <mark key="^" line="13" column="27" />
+        <mark key="." line="13" column="27" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/CodeWars/maszyna_losujaca.py" timestamp="1537553711662">
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="8" column="18" />
+        <mark key="^" line="8" column="18" />
+        <mark key="." line="8" column="18" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/TrainLog/complete.log" timestamp="1539804158353">
+        <mark key="'" line="1561" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Sfinks/starBattle.py" timestamp="1539419075523">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="159" column="9" />
+        <mark key="^" line="119" column="43" />
+        <mark key="." line="119" column="43" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/CodeWars/binaryMultiple_tests.py" timestamp="1537301164153">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/CodeWars/hashtaggen.py" timestamp="1539207078945">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/TrainLog/sample2.py" timestamp="1539800029773">
+        <mark key="[" line="39" column="15" />
+        <mark key="]" line="39" column="19" />
+        <mark key="." line="39" column="19" />
+        <mark key="^" line="39" column="19" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/CodeWars/stackeballs2d.py" timestamp="1539197989943">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="2" column="16" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/CodeWars/unitHashtag.py" timestamp="1539205053217">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="35" column="204" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/LogAnalyzeTool/logtool.py" timestamp="1537130017820">
+        <mark key="[" line="25" column="28" />
+        <mark key="]" line="25" column="33" />
+        <mark key="^" line="25" column="33" />
+        <mark key="." line="25" column="33" />
       </file>
     </filemarks>
     <jumps>
@@ -165,22 +174,25 @@
       <jump line="10" column="45" filename="$USER_HOME$/PycharmProjects/TrainLog/sample2.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/TrainLog/sample2.py" />
       <jump line="6" column="35" filename="$USER_HOME$/PycharmProjects/TrainLog/sample2.py" />
+      <jump line="1561" column="0" filename="$USER_HOME$/PycharmProjects/TrainLog/complete.log" />
+      <jump line="19" column="0" filename="$USER_HOME$/PycharmProjects/TrainLog/sample1.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/TrainLog/sample1.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>root</text>
+        <text>str</text>
       </register>
       <register name="-" type="4">
-        <text>root</text>
+        <text>str</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQbXdcPg==</text>
+        <text>m132</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YjEgPSB0dGsuQnV0dG9uKHRleHQ9IkV4YXBuZCBhbGwiKQo=</text>
+        <text encoding="base64">ZnJvbSBUa2ludGVyIGltcG9ydCAqCmltcG9ydCB0dGsKCnJvb3QgPSBUaygpCgp0cmVlID0gdHRrLlRyZWV2aWV3KHJvb3QsIGhlaWdodD0zMCkKdHJlZS50YWdfY29uZmlndXJlKCdvZGRyb3cnLCBiYWNrZ3JvdW5kPSJvcmFuZ2UiKQp0cmVlLnRhZ19jb25maWd1cmUoJ2V2ZW5yb3cnLCBiYWNrZ3JvdW5kPSJwdXJwbGUiKQoKdHJlZVsiY29sdW1ucyJdPSgib25lIiwidHdvIikKdHJlZS5jb2x1bW4oIm9uZSIsIHdpZHRoPTMwMCApCnRyZWUuY29sdW1uKCJ0d28iLCB3aWR0aD0zMDApCnRyZWUuaGVhZGluZygib25lIiwgdGV4dD0iY291bG1uIEEiKQp0cmVlLmhlYWRpbmcoInR3byIsIHRleHQ9ImNvbHVtbiBCIikKCnRyZWUuaW5zZXJ0KCIiICwgMCwgICAgdGV4dD0iTGluZSAxIiwgdmFsdWVzPSgiMUEiLCIxYiIpLCB0YWdzPSJldmVucm93IikKCmlkMiA9IHRyZWUuaW5zZXJ0KCIiLCAxLCAiZGlyMiIsIHRleHQ9IkRpciAyIikKdHJlZS5pbnNlcnQoaWQyLCAiZW5kIiwgImRpciAyIiwgdGV4dD0ic3ViIGRpciAyIiwgdmFsdWVzPSgiMkEiLCIyQiIpKQoKIyNhbHRlcm5hdGl2ZWx5Ogp0cmVlLmluc2VydCgiIiwgMywgImRpcjMiLCB0ZXh0PSJEaXIgMyIsIHRhZ3M9KCdvZGRyb3cnLCAnZXZlbnJvdycpKQp0cmVlLmluc2VydCgiZGlyMyIsIDMsIHRleHQ9IiBzdWIgZGlyIDMiLHZhbHVlcz0oIjNBIiwiIDNCIikpCmlkYWEgPSB0cmVlLmluc2VydChpZDIsNCwgdGV4dD0iZWxvIiwgdmFsdWVzPSgiaTM0IiwiaTM0IikpCnRyZWUuaW5zZXJ0KGlkYWEsNCwgdGV4dD0iZWxvIiwgdmFsdWVzPSgiMzQiLCIzNCIpKQp0cmVlLmluc2VydCgiZGlyMyIsNCwgdGV4dD0iZWxvIGluc2lkZSIsIHZhbHVlcz0oImkzNCIsImkzNCIpKQphID0gImRrbGZhaiBsZGphc2Zsa2pkYXNsayBmamFzZGxramZsayBhZHNqIGZsa2phZHNmbDsgamFkc2ZsayBzYWRqbGYgamRzbCBmamFkc2xqZiBsYWRzaiBma2xhanNkIGZsamRzbGZqIGpmbGFzZCAiCnRyZWUuaW5zZXJ0KCJkaXIyIiwwLCB0ZXh0PWEsIHZhbHVlcz0oIjEiLCIyIiwiNCIpKQoKZGVmIGV4cGFuZCgpOgogICAgI3RyZWUuaXRlbShvcGVuPVRydWUpCiAgICB0cmVlLml0ZW0oImRpcjMiLCBvcGVuPVRydWUpCgpiMSA9IHR0ay5CdXR0b24odGV4dD0iRXhhcG5kIGFsbCIsIGNvbW1hbmQ9ZXhwYW5kKQpiMS5wYWNrKCkKCgp0cmVlLnBhY2soKQpyb290Lm1haW5sb29wKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFQuc2VlKDMwKQo=</text>
+        <text encoding="base64">ZGVmIGV4cGFuZCgpOgogICAgI3RyZWUuaXRlbShvcGVuPVRydWUpCiAgICB0cmVlLml0ZW0oImRpcjMiLCBvcGVuPVRydWUpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -203,43 +215,42 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VC5pbnNlcnQoKQo=</text>
+        <text encoding="base64">ICAgIGZvciBub2RlIGluIHRyZWUuaXRlbSgpOgogICAgICAgIHRyZWUuaXRlbShub2RlLCBvcGVuID0gVHJ1ZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFQueHZpZXcoInNjcm9sbCIsMSkK</text>
+        <text encoding="base64">a2sK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YiA9IFRraW50ZXIuQnV0dG9uKHJvb3QsIHRleHQ9Ik9LIikKYi5wYWNrKCkK</text>
+        <text encoding="base64">dHJlZS5jb2wK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CkhvbWUKUHl0aG9uCjJECkFwcGxpY2F0aW9uCkJ1aWxkaW4gRnVuY3Rpb24KQ2xhc3MKRGF0YSBTdHJ1Y3R1cmUKRGF0YSBUeXBlCkRhdGFiYXNlCkRldmVsb3BtZW50CkRpY3Rpb25hcnkKRXZlbnQKRXhjZXB0aW9uCkZpbGUKRnVuY3Rpb24KR1VJIFBtdwpHVUkgVGsKTGFuZ3VhZ2UgQmFzaWNzCkxpc3QKTWF0aApOZXR3b3JrClN0cmluZwpTeXN0ZW0KVGhyZWFkClR1cGxlClV0aWxpdHkKWE1MCgpTY3JvbGxlZCBUZXh0IDogVGV4dCDCqyBHVUkgVGsgwqsgUHl0aG9uCgoKCgoKUHl0aG9uR1VJIFRrVGV4dAoKU2Nyb2xsZWQgVGV4dApTY3JvbGxlZCBUZXh0Cgo=</text>
+        <text encoding="base64">ICAgIFQuc2VlKDMwKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UmVsYXRlZCBleGFtcGxlcyBpbiB0aGUgc2FtZSBjYXRlZ29yeQoxLglEcmF3IHRleHQJCURyYXcgdGV4dAoyLglEcmF3IHRleHQgd2l0aCBmb250CQlEcmF3IHRleHQgd2l0aCBmb250CjMuCUNoYW5nZSBjb2xvciBmb3IgdGFncwkJQ2hhbmdlIGNvbG9yIGZvciB0YWdzCjQuCUNoYW5nZSBmb250IGZvciBUZXh0CQlDaGFuZ2UgZm9udCBmb3IgVGV4dAo1LglBZGQgZG91YmxlIGNsaWNrIGFjdGlvbiB0byBhIFRleHQJCUFkZCBkb3VibGUgY2xpY2sgYWN0aW9uIHRvIGEgVGV4dAo2LglJbnNlcnQgU3RyaW5nIHRvIGEgVGV4dAkJSW5zZXJ0IFN0cmluZyB0byBhIFRleHQKNy4JVGV4dCBwcm9wZXJ0aWVzOiBleHBhbmQgYW5kIGZpbGwJCVRleHQgcHJvcGVydGllczogZXhwYW5kIGFuZCBmaWxsCjguCVRleHQgd2l0aCBTY3JvbGxCYXIJCVRleHQgd2l0aCBTY3JvbGxCYXIKOS4JU2hvdyBhIGZpbGUgaW4gYSB0ZXh0IHdpZGdldAoxMC4JU2VhcmNoIHN0cmluZyBpbiBUZXh0CQlTZWFyY2ggc3RyaW5nIGluIFRleHQKCmphdmEycy5jb20gIHwgRW1haWw6aW5mbyBhdCBqYXZhMnMuY29tIHwgwqkgRGVtbyBTb3VyY2UgYW5kIFN1cHBvcnQuIEFsbCByaWdodHMgcmVzZXJ2ZWQuCg==</text>
+        <text encoding="base64">VC5pbnNlcnQoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgpmcm9tIFRraW50ZXIgaW1wb3J0ICoKaW1wb3J0IFBtdywgc3lzCmZpbGVuYW1lID0gImluZGV4Lmh0bSIKcm9vdCA9IFRrKCkKdG9wID0gRnJhbWUocm9vdCk7IHRvcC5wYWNrKHNpZGU9J3RvcCcpCnRleHQgPSBQbXcuU2Nyb2xsZWRUZXh0KHRvcCwKICAgICAgICAgICAgICAgICAgICAgICAgYm9yZGVyZnJhbWU9NSwKICAgICAgICAgICAgICAgICAgICAgICAgdnNjcm9sbG1vZGU9J2R5bmFtaWMnLAogICAgICAgICAgICAgICAgICAgICAgICBoc2Nyb2xsbW9kZT0nZHluYW1pYycsCiAgICAgICAgICAgICAgICAgICAgICAgIGxhYmVscG9zPSduJywKICAgICAgICAgICAgICAgICAgICAgICAgbGFiZWxfdGV4dD0nZmlsZSAlcycgJSBmaWxlbmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgdGV4dF93aWR0aD00MCwKICAgICAgICAgICAgICAgICAgICAgICAgdGV4dF9oZWlnaHQ9NCwKICAgICAgICAgICAgICAgICAgICAgICAgdGV4dF93cmFwPSdub25lJywKICAgICAgICAgICAgICAgICAgICAgICAgKQp0ZXh0LnBhY2soKQoKdGV4dC5pbnNlcnQoJ2VuZCcsIG9wZW4oZmlsZW5hbWUsJ3InKS5yZWFkKCkpCkJ1dHRvbih0b3AsIHRleHQ9J1F1aXQnLCBjb21tYW5kPXJvb3QuZGVzdHJveSkucGFjayhwYWR5PTE1KQpyb290Lm1haW5sb29wKCkK</text>
+        <text encoding="base64">ICAgIFQueHZpZXcoInNjcm9sbCIsMSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">YiA9IFRraW50ZXIuQnV0dG9uKHJvb3QsIHRleHQ9Ik9LIikKYi5wYWNrKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBUcgo=</text>
+        <text encoding="base64">CkhvbWUKUHl0aG9uCjJECkFwcGxpY2F0aW9uCkJ1aWxkaW4gRnVuY3Rpb24KQ2xhc3MKRGF0YSBTdHJ1Y3R1cmUKRGF0YSBUeXBlCkRhdGFiYXNlCkRldmVsb3BtZW50CkRpY3Rpb25hcnkKRXZlbnQKRXhjZXB0aW9uCkZpbGUKRnVuY3Rpb24KR1VJIFBtdwpHVUkgVGsKTGFuZ3VhZ2UgQmFzaWNzCkxpc3QKTWF0aApOZXR3b3JrClN0cmluZwpTeXN0ZW0KVGhyZWFkClR1cGxlClV0aWxpdHkKWE1MCgpTY3JvbGxlZCBUZXh0IDogVGV4dCDCqyBHVUkgVGsgwqsgUHl0aG9uCgoKCgoKUHl0aG9uR1VJIFRrVGV4dAoKU2Nyb2xsZWQgVGV4dApTY3JvbGxlZCBUZXh0Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQbXdcPg==</last-search>
+      <last-search>m132</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQbXdcPg==</last-pattern>
+      <last-pattern>m132</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxydW5cPg==</entry>
         <entry encoding="base64">XDwiXD4=</entry>
         <entry encoding="base64">XDxOb25lXD4=</entry>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
@@ -259,6 +270,7 @@
         <entry>check</entry>
         <entry encoding="base64">XDxpZDJcPg==</entry>
         <entry encoding="base64">XDxQbXdcPg==</entry>
+        <entry>m132</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
