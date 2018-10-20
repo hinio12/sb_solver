@@ -133,11 +133,11 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/TrainLog/logparser.py" timestamp="1540058908501">
-        <mark key="[" line="42" column="24" />
-        <mark key="]" line="42" column="25" />
-        <mark key="^" line="42" column="25" />
-        <mark key="." line="42" column="25" />
+      <file name="$USER_HOME$/PycharmProjects/TrainLog/logparser.py" timestamp="1540060034756">
+        <mark key="[" line="48" column="30" />
+        <mark key="]" line="48" column="68" />
+        <mark key="^" line="48" column="56" />
+        <mark key="." line="48" column="68" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/CodeWars/unitHashtag.py" timestamp="1539205053217">
         <mark key="[" line="41" column="0" />
@@ -196,16 +196,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICBsX2VuZHNlY3Rpb24=</text>
+        <text>ggg.group(1)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICBsX2VuZHNlY3Rpb24=</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>l_section</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgYm9vbChyZS5zZWFyY2gobF9zZWN0aW9uLGYpKToKICAgICAgICAgICAgICAgIHByaW50ICgiPj4+IHt9IGxfc2VjdGlvbiIuZm9ybWF0KGVlZS5ncm91cCgxKSkpCg==</text>
+      <register name="0" type="4">
+        <text>ggg.group(1)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -327,6 +327,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
