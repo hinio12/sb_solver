@@ -15,7 +15,7 @@
       <file name="/fragment.py" timestamp="1539527102315">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1539338820559">
+      <file name="/a.dummy" timestamp="1540061826138">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/TrainLog/sample1.py" timestamp="1539805095929">
@@ -82,11 +82,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/TrainLog/attempt1.py" timestamp="1540039966288">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="11" column="28" />
+      <file name="$USER_HOME$/PycharmProjects/TrainLog/attempt1.py" timestamp="1540062503584">
+        <mark key="'" line="13" column="31" />
+        <mark key="[" line="13" column="29" />
+        <mark key="]" line="13" column="29" />
+        <mark key="." line="13" column="29" />
+        <mark key="^" line="14" column="32" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/snake_solver/UnitTest.py" timestamp="1539443403946">
         <mark key="[" line="12" column="0" />
@@ -133,11 +134,11 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/TrainLog/logparser.py" timestamp="1540061217598">
-        <mark key="[" line="12" column="68" />
-        <mark key="]" line="12" column="98" />
-        <mark key="^" line="12" column="98" />
-        <mark key="." line="12" column="98" />
+      <file name="$USER_HOME$/PycharmProjects/TrainLog/logparser.py" timestamp="1540062087087">
+        <mark key="[" line="14" column="21" />
+        <mark key="]" line="14" column="22" />
+        <mark key="^" line="14" column="22" />
+        <mark key="." line="14" column="22" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/CodeWars/unitHashtag.py" timestamp="1539205053217">
         <mark key="[" line="41" column="0" />
@@ -193,13 +194,14 @@
       <jump line="8001" column="55" filename="$USER_HOME$/PycharmProjects/TrainLog/complete.log" />
       <jump line="7832" column="22" filename="$USER_HOME$/PycharmProjects/TrainLog/complete.log" />
       <jump line="8336" column="33" filename="$USER_HOME$/PycharmProjects/TrainLog/complete.log" />
+      <jump line="13" column="31" filename="$USER_HOME$/PycharmProjects/TrainLog/attempt1.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>end</text>
+        <text>A</text>
       </register>
       <register name="-" type="4">
-        <text>end</text>
+        <text>A</text>
       </register>
       <register name="/" type="4">
         <text>l_section</text>
@@ -207,8 +209,21 @@
       <register name="0" type="8">
         <text>[[150,24,156,39], &quot;end of mission&quot;]</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text>#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -231,28 +246,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVnZXhwID0gcmUuY29tcGlsZSh0cmFpbl9tZXNzYWdlX3BhdHRlcm5fcmVnZXgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgI2lmIHJlZ2V4cC5zZWFyY2goZik6CiAgICAgICAgICAgICNwcmludCAoZikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVnZXhwID0gcmUuY29tcGlsZSh0cmFpbl9tZXNzYWdlX3BhdHRlcm5fcmVnZXgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICNwcmludChyZS5zZWFyY2godHJhaW5fbWVzc2FnZV9wYXR0ZXJuX3JlZ2V4LGYpLmdyb3VwKDUpKQogICAgICAgICAgICAgICAgI3ByaW50KCJNYXRjaGVkIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgI2lmIHJlZ2V4cC5zZWFyY2goZik6CiAgICAgICAgICAgICNwcmludCAoZikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICNwcmludChyZS5zZWFyY2godHJhaW5fbWVzc2FnZV9wYXR0ZXJuX3JlZ2V4LGYpLmdyb3VwKDUpKQogICAgICAgICAgICAgICAgI3ByaW50KCJNYXRjaGVkIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICNwcmludChyZS5zZWFyY2godHJhaW5fbWVzc2FnZV9wYXR0ZXJuX3JlZ2V4LGYpLmdyb3VwKDEpKQogICAgICAgICAgICAgICAgI3ByaW50KHJlLnNlYXJjaCh0cmFpbl9tZXNzYWdlX3BhdHRlcm5fcmVnZXgsZikuZ3JvdXAoMikpCiAgICAgICAgICAgICAgICAjcHJpbnQocmUuc2VhcmNoKHRyYWluX21lc3NhZ2VfcGF0dGVybl9yZWdleCxmKS5ncm91cCgzKSkKICAgICAgICAgICAgICAgICNwcmludChhYWEuZ3JvdXAoNCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICNwcmludChyZS5zZWFyY2godHJhaW5fbWVzc2FnZV9wYXR0ZXJuX3JlZ2V4LGYpLmdyb3VwKDEpKQogICAgICAgICAgICAgICAgI3ByaW50KHJlLnNlYXJjaCh0cmFpbl9tZXNzYWdlX3BhdHRlcm5fcmVnZXgsZikuZ3JvdXAoMikpCiAgICAgICAgICAgICAgICAjcHJpbnQocmUuc2VhcmNoKHRyYWluX21lc3NhZ2VfcGF0dGVybl9yZWdleCxmKS5ncm91cCgzKSkKICAgICAgICAgICAgICAgICNwcmludChhYWEuZ3JvdXAoNCkpCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIGV4cGFuZCgpOgogICAgI3RyZWUuaXRlbShvcGVuPVRydWUpCiAgICB0cmVlLml0ZW0oImRpcjMiLCBvcGVuPVRydWUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
