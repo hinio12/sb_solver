@@ -134,11 +134,12 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/TrainLog/logparser.py" timestamp="1540064814366">
-        <mark key="[" line="22" column="14" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/TrainLog/logparser.py" timestamp="1540068385198">
+        <mark key="'" line="80" column="12" />
+        <mark key="[" line="63" column="28" />
+        <mark key="]" line="63" column="26" />
+        <mark key="." line="63" column="26" />
+        <mark key="^" line="63" column="26" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/CodeWars/unitHashtag.py" timestamp="1539205053217">
         <mark key="[" line="41" column="0" />
@@ -195,22 +196,23 @@
       <jump line="7832" column="22" filename="$USER_HOME$/PycharmProjects/TrainLog/complete.log" />
       <jump line="8336" column="33" filename="$USER_HOME$/PycharmProjects/TrainLog/complete.log" />
       <jump line="13" column="31" filename="$USER_HOME$/PycharmProjects/TrainLog/attempt1.py" />
+      <jump line="52" column="12" filename="$USER_HOME$/PycharmProjects/TrainLog/logparser.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>dir, id, ack,</text>
+      <register name="&quot;" type="4">
+        <text>None</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>None</text>
       </register>
       <register name="/" type="4">
-        <text>l_section</text>
+        <text encoding="base64">XDxhYWFcPg==</text>
       </register>
-      <register name="0" type="8">
-        <text>[[150,24,156,39], &quot;end of mission&quot;]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgbSBpbiBzZWxmLm1sX2xpc3Q6CiAgICAgICAgICAgIG0uc2hvd195b3Vyc2VsZigpCg==</text>
       </register>
-      <register name="1" type="8">
-        <text>dir, id, ack,</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -232,58 +234,43 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="8">
-        <text>#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB0dHQgPSByZS5zZWFyY2gobWFfbXNnLHJhdykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0dHQgPSByZS5zZWFyY2gobWFfbXNnLHJhdykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVnZXhwID0gcmUuY29tcGlsZSh0cmFpbl9tZXNzYWdlX3BhdHRlcm5fcmVnZXgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgI2lmIHJlZ2V4cC5zZWFyY2goZik6CiAgICAgICAgICAgICNwcmludCAoZikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICNwcmludChyZS5zZWFyY2godHJhaW5fbWVzc2FnZV9wYXR0ZXJuX3JlZ2V4LGYpLmdyb3VwKDUpKQogICAgICAgICAgICAgICAgI3ByaW50KCJNYXRjaGVkIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2dnID0gcmUuc2VhcmNoKG1lc3NhZ2VfaWQsIGYpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGRkID0gcmUuc2VhcmNoKG1hX21zZyxmKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICNwcmludChyZS5zZWFyY2godHJhaW5fbWVzc2FnZV9wYXR0ZXJuX3JlZ2V4LGYpLmdyb3VwKDEpKQogICAgICAgICAgICAgICAgI3ByaW50KHJlLnNlYXJjaCh0cmFpbl9tZXNzYWdlX3BhdHRlcm5fcmVnZXgsZikuZ3JvdXAoMikpCiAgICAgICAgICAgICAgICAjcHJpbnQocmUuc2VhcmNoKHRyYWluX21lc3NhZ2VfcGF0dGVybl9yZWdleCxmKS5ncm91cCgzKSkKICAgICAgICAgICAgICAgICNwcmludChhYWEuZ3JvdXAoNCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2dnID0gcmUuc2VhcmNoKG1lc3NhZ2VfaWQsIGYpCiAgICAgICAgICAgIGlmIGdnZzoKICAgICAgICAgICAgICAgIHNlbGYubWxfbGlzdC5hcHBlbmQoTWVzc2FnZShmLHgpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGRkID0gcmUuc2VhcmNoKG1hX21zZyxmKQogICAgICAgICAgICBpZiBkZGQ6CiAgICAgICAgICAgICAgICBzZWxmLm1sX2xpc3QuYXBwZW5kKE1lc3NhZ2UoZix4KSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>l_section</last-search>
+      <last-search encoding="base64">XDxhYWFcPg==</last-search>
       <last-offset />
-      <last-pattern>l_section</last-pattern>
+      <last-pattern encoding="base64">XDxhYWFcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxrb21iaW5hdGlvblw+</entry>
-        <entry>komb</entry>
         <entry encoding="base64">XDxyZXN1bHRHcmlkXD4=</entry>
         <entry encoding="base64">XDxwcmludFw+</entry>
         <entry>1000</entry>
@@ -302,6 +289,8 @@
         <entry>nid_messag</entry>
         <entry>nid_packet=15</entry>
         <entry>l_section</entry>
+        <entry encoding="base64">XDwpXD4=</entry>
+        <entry encoding="base64">XDxhYWFcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
