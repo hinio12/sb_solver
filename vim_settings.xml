@@ -133,11 +133,11 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/TrainLog/logparser.py" timestamp="1540060034756">
-        <mark key="[" line="48" column="30" />
-        <mark key="]" line="48" column="68" />
-        <mark key="^" line="48" column="56" />
-        <mark key="." line="48" column="68" />
+      <file name="$USER_HOME$/PycharmProjects/TrainLog/logparser.py" timestamp="1540061217598">
+        <mark key="[" line="12" column="68" />
+        <mark key="]" line="12" column="98" />
+        <mark key="^" line="12" column="98" />
+        <mark key="." line="12" column="98" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/CodeWars/unitHashtag.py" timestamp="1539205053217">
         <mark key="[" line="41" column="0" />
@@ -196,16 +196,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ggg.group(1)</text>
+        <text>end</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>end</text>
       </register>
       <register name="/" type="4">
         <text>l_section</text>
       </register>
-      <register name="0" type="4">
-        <text>ggg.group(1)</text>
+      <register name="0" type="8">
+        <text>[[150,24,156,39], &quot;end of mission&quot;]</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
