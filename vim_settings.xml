@@ -100,8 +100,8 @@
         <mark key="^" line="8" column="18" />
         <mark key="." line="8" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/TrainLog/complete.log" timestamp="1540043018932">
-        <mark key="'" line="8001" column="55" />
+      <file name="$USER_HOME$/PycharmProjects/TrainLog/complete.log" timestamp="1540057549855">
+        <mark key="'" line="8336" column="33" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Sfinks/starBattle.py" timestamp="1539419075523">
         <mark key="'" line="0" column="0" />
@@ -191,6 +191,8 @@
       <jump line="7475" column="48" filename="$USER_HOME$/PycharmProjects/TrainLog/complete.log" />
       <jump line="7572" column="90" filename="$USER_HOME$/PycharmProjects/TrainLog/complete.log" />
       <jump line="8001" column="55" filename="$USER_HOME$/PycharmProjects/TrainLog/complete.log" />
+      <jump line="7832" column="22" filename="$USER_HOME$/PycharmProjects/TrainLog/complete.log" />
+      <jump line="8336" column="33" filename="$USER_HOME$/PycharmProjects/TrainLog/complete.log" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -200,7 +202,7 @@
         <text>aaa</text>
       </register>
       <register name="/" type="4">
-        <text>nid_messag</text>
+        <text>l_section</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgYm9vbChyZS5zZWFyY2godHJhaW5fbWVzc2FnZV9wYXR0ZXJuX3JlZ2V4LGYpKToKICAgICAgICAgICAgICAgIHByaW50ICgiVHJhaW4ge30sIE1lc3NhZ2Uge30sIE1lc3NhZ2Ugc3RyaW5nIHt9LCBBQ0sge30iLmZvcm1hdChhYWEuZ3JvdXAoMSksIGFhYS5ncm91cCgyKSwgYWFhLmdyb3VwKDMpLGFhYS5ncm91cCg0KSkpCg==</text>
@@ -257,16 +259,14 @@
       </register>
     </registers>
     <search>
-      <last-search>nid_messag</last-search>
+      <last-search>l_section</last-search>
       <last-offset />
-      <last-pattern>nid_messag</last-pattern>
+      <last-pattern>l_section</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxOb25lXD4=</entry>
-        <entry encoding="base64">XDxzZWxmXD4=</entry>
         <entry encoding="base64">XDxrb21iaW5hdGlvblw+</entry>
         <entry>komb</entry>
         <entry encoding="base64">XDxyZXN1bHRHcmlkXD4=</entry>
@@ -285,6 +285,8 @@
         <entry encoding="base64">XDxQbXdcPg==</entry>
         <entry>m132</entry>
         <entry>nid_messag</entry>
+        <entry>nid_packet=15</entry>
+        <entry>l_section</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
