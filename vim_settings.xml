@@ -82,11 +82,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/TrainLog/attempt1.py" timestamp="1539806189393">
-        <mark key="[" line="38" column="7" />
-        <mark key="]" line="38" column="10" />
-        <mark key="." line="38" column="10" />
-        <mark key="^" line="38" column="10" />
+      <file name="$USER_HOME$/PycharmProjects/TrainLog/attempt1.py" timestamp="1540039966288">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="11" column="28" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/snake_solver/UnitTest.py" timestamp="1539443403946">
         <mark key="[" line="12" column="0" />
@@ -100,8 +100,8 @@
         <mark key="^" line="8" column="18" />
         <mark key="." line="8" column="18" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/TrainLog/complete.log" timestamp="1539804158353">
-        <mark key="'" line="1561" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/TrainLog/complete.log" timestamp="1540043018932">
+        <mark key="'" line="8001" column="55" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Sfinks/starBattle.py" timestamp="1539419075523">
         <mark key="'" line="0" column="0" />
@@ -132,6 +132,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="^" line="2" column="16" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/TrainLog/logparser.py" timestamp="1540042817678">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="24" column="39" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/CodeWars/unitHashtag.py" timestamp="1539205053217">
         <mark key="[" line="41" column="0" />
@@ -177,22 +183,30 @@
       <jump line="1561" column="0" filename="$USER_HOME$/PycharmProjects/TrainLog/complete.log" />
       <jump line="19" column="0" filename="$USER_HOME$/PycharmProjects/TrainLog/sample1.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/TrainLog/sample1.py" />
+      <jump line="6868" column="33" filename="$USER_HOME$/PycharmProjects/TrainLog/complete.log" />
+      <jump line="6890" column="70" filename="$USER_HOME$/PycharmProjects/TrainLog/complete.log" />
+      <jump line="7094" column="48" filename="$USER_HOME$/PycharmProjects/TrainLog/complete.log" />
+      <jump line="7248" column="51" filename="$USER_HOME$/PycharmProjects/TrainLog/complete.log" />
+      <jump line="7355" column="48" filename="$USER_HOME$/PycharmProjects/TrainLog/complete.log" />
+      <jump line="7475" column="48" filename="$USER_HOME$/PycharmProjects/TrainLog/complete.log" />
+      <jump line="7572" column="90" filename="$USER_HOME$/PycharmProjects/TrainLog/complete.log" />
+      <jump line="8001" column="55" filename="$USER_HOME$/PycharmProjects/TrainLog/complete.log" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>str</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVnZXhwID0gcmUuY29tcGlsZSh0cmFpbl9tZXNzYWdlX3BhdHRlcm5fcmVnZXgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>str</text>
+        <text>start</text>
       </register>
       <register name="/" type="4">
-        <text>m132</text>
+        <text>nid_messag</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBUa2ludGVyIGltcG9ydCAqCmltcG9ydCB0dGsKCnJvb3QgPSBUaygpCgp0cmVlID0gdHRrLlRyZWV2aWV3KHJvb3QsIGhlaWdodD0zMCkKdHJlZS50YWdfY29uZmlndXJlKCdvZGRyb3cnLCBiYWNrZ3JvdW5kPSJvcmFuZ2UiKQp0cmVlLnRhZ19jb25maWd1cmUoJ2V2ZW5yb3cnLCBiYWNrZ3JvdW5kPSJwdXJwbGUiKQoKdHJlZVsiY29sdW1ucyJdPSgib25lIiwidHdvIikKdHJlZS5jb2x1bW4oIm9uZSIsIHdpZHRoPTMwMCApCnRyZWUuY29sdW1uKCJ0d28iLCB3aWR0aD0zMDApCnRyZWUuaGVhZGluZygib25lIiwgdGV4dD0iY291bG1uIEEiKQp0cmVlLmhlYWRpbmcoInR3byIsIHRleHQ9ImNvbHVtbiBCIikKCnRyZWUuaW5zZXJ0KCIiICwgMCwgICAgdGV4dD0iTGluZSAxIiwgdmFsdWVzPSgiMUEiLCIxYiIpLCB0YWdzPSJldmVucm93IikKCmlkMiA9IHRyZWUuaW5zZXJ0KCIiLCAxLCAiZGlyMiIsIHRleHQ9IkRpciAyIikKdHJlZS5pbnNlcnQoaWQyLCAiZW5kIiwgImRpciAyIiwgdGV4dD0ic3ViIGRpciAyIiwgdmFsdWVzPSgiMkEiLCIyQiIpKQoKIyNhbHRlcm5hdGl2ZWx5Ogp0cmVlLmluc2VydCgiIiwgMywgImRpcjMiLCB0ZXh0PSJEaXIgMyIsIHRhZ3M9KCdvZGRyb3cnLCAnZXZlbnJvdycpKQp0cmVlLmluc2VydCgiZGlyMyIsIDMsIHRleHQ9IiBzdWIgZGlyIDMiLHZhbHVlcz0oIjNBIiwiIDNCIikpCmlkYWEgPSB0cmVlLmluc2VydChpZDIsNCwgdGV4dD0iZWxvIiwgdmFsdWVzPSgiaTM0IiwiaTM0IikpCnRyZWUuaW5zZXJ0KGlkYWEsNCwgdGV4dD0iZWxvIiwgdmFsdWVzPSgiMzQiLCIzNCIpKQp0cmVlLmluc2VydCgiZGlyMyIsNCwgdGV4dD0iZWxvIGluc2lkZSIsIHZhbHVlcz0oImkzNCIsImkzNCIpKQphID0gImRrbGZhaiBsZGphc2Zsa2pkYXNsayBmamFzZGxramZsayBhZHNqIGZsa2phZHNmbDsgamFkc2ZsayBzYWRqbGYgamRzbCBmamFkc2xqZiBsYWRzaiBma2xhanNkIGZsamRzbGZqIGpmbGFzZCAiCnRyZWUuaW5zZXJ0KCJkaXIyIiwwLCB0ZXh0PWEsIHZhbHVlcz0oIjEiLCIyIiwiNCIpKQoKZGVmIGV4cGFuZCgpOgogICAgI3RyZWUuaXRlbShvcGVuPVRydWUpCiAgICB0cmVlLml0ZW0oImRpcjMiLCBvcGVuPVRydWUpCgpiMSA9IHR0ay5CdXR0b24odGV4dD0iRXhhcG5kIGFsbCIsIGNvbW1hbmQ9ZXhwYW5kKQpiMS5wYWNrKCkKCgp0cmVlLnBhY2soKQpyb290Lm1haW5sb29wKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgYm9vbChyZS5zZWFyY2goc2NyaXB0X3N0YXJ0LGYpKToKICAgICAgICAgICAgICAgIHByaW50ICgiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0iKQogICAgICAgICAgICAgICAgcHJpbnQgIlNjcmlwdCBzdGFydCB7fSIuZm9ybWF0KGJiYi5ncm91cCgxKSkKICAgICAgICAgICAgICAgIHByaW50ICgiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIGV4cGFuZCgpOgogICAgI3RyZWUuaXRlbShvcGVuPVRydWUpCiAgICB0cmVlLml0ZW0oImRpcjMiLCBvcGVuPVRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVnZXhwID0gcmUuY29tcGlsZSh0cmFpbl9tZXNzYWdlX3BhdHRlcm5fcmVnZXgpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -215,43 +229,42 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciBub2RlIGluIHRyZWUuaXRlbSgpOgogICAgICAgIHRyZWUuaXRlbShub2RlLCBvcGVuID0gVHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgI2lmIHJlZ2V4cC5zZWFyY2goZik6CiAgICAgICAgICAgICNwcmludCAoZikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">a2sK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICNwcmludChyZS5zZWFyY2godHJhaW5fbWVzc2FnZV9wYXR0ZXJuX3JlZ2V4LGYpLmdyb3VwKDUpKQogICAgICAgICAgICAgICAgI3ByaW50KCJNYXRjaGVkIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dHJlZS5jb2wK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFQuc2VlKDMwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICNwcmludChyZS5zZWFyY2godHJhaW5fbWVzc2FnZV9wYXR0ZXJuX3JlZ2V4LGYpLmdyb3VwKDEpKQogICAgICAgICAgICAgICAgI3ByaW50KHJlLnNlYXJjaCh0cmFpbl9tZXNzYWdlX3BhdHRlcm5fcmVnZXgsZikuZ3JvdXAoMikpCiAgICAgICAgICAgICAgICAjcHJpbnQocmUuc2VhcmNoKHRyYWluX21lc3NhZ2VfcGF0dGVybl9yZWdleCxmKS5ncm91cCgzKSkKICAgICAgICAgICAgICAgICNwcmludChhYWEuZ3JvdXAoNCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VC5pbnNlcnQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFQueHZpZXcoInNjcm9sbCIsMSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YiA9IFRraW50ZXIuQnV0dG9uKHJvb3QsIHRleHQ9Ik9LIikKYi5wYWNrKCkK</text>
+        <text encoding="base64">ZGVmIGV4cGFuZCgpOgogICAgI3RyZWUuaXRlbShvcGVuPVRydWUpCiAgICB0cmVlLml0ZW0oImRpcjMiLCBvcGVuPVRydWUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CkhvbWUKUHl0aG9uCjJECkFwcGxpY2F0aW9uCkJ1aWxkaW4gRnVuY3Rpb24KQ2xhc3MKRGF0YSBTdHJ1Y3R1cmUKRGF0YSBUeXBlCkRhdGFiYXNlCkRldmVsb3BtZW50CkRpY3Rpb25hcnkKRXZlbnQKRXhjZXB0aW9uCkZpbGUKRnVuY3Rpb24KR1VJIFBtdwpHVUkgVGsKTGFuZ3VhZ2UgQmFzaWNzCkxpc3QKTWF0aApOZXR3b3JrClN0cmluZwpTeXN0ZW0KVGhyZWFkClR1cGxlClV0aWxpdHkKWE1MCgpTY3JvbGxlZCBUZXh0IDogVGV4dCDCqyBHVUkgVGsgwqsgUHl0aG9uCgoKCgoKUHl0aG9uR1VJIFRrVGV4dAoKU2Nyb2xsZWQgVGV4dApTY3JvbGxlZCBUZXh0Cgo=</text>
+        <text encoding="base64">ICAgIGZvciBub2RlIGluIHRyZWUuaXRlbSgpOgogICAgICAgIHRyZWUuaXRlbShub2RlLCBvcGVuID0gVHJ1ZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>m132</last-search>
+      <last-search>nid_messag</last-search>
       <last-offset />
-      <last-pattern>m132</last-pattern>
+      <last-pattern>nid_messag</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwiXD4=</entry>
         <entry encoding="base64">XDxOb25lXD4=</entry>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
         <entry encoding="base64">XDxrb21iaW5hdGlvblw+</entry>
@@ -271,11 +284,13 @@
         <entry encoding="base64">XDxpZDJcPg==</entry>
         <entry encoding="base64">XDxQbXdcPg==</entry>
         <entry>m132</entry>
+        <entry>nid_messag</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
         <entry>vsplit</entry>
         <entry>w</entry>
+        <entry>g//</entry>
       </history-cmd>
       <history-expr />
       <history-input />
