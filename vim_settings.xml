@@ -50,12 +50,12 @@
         <mark key="." line="69" column="23" />
         <mark key="^" line="65" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/snake_solver/snake.py" timestamp="1541085753499">
+      <file name="$USER_HOME$/PycharmProjects/snake_solver/snake.py" timestamp="1541098157483">
         <mark key="'" line="79" column="8" />
-        <mark key="[" line="1" column="7" />
-        <mark key="]" line="1" column="8" />
-        <mark key="^" line="83" column="31" />
-        <mark key="." line="1" column="8" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Sfinks/sbUnitTests.py" timestamp="1539356608876">
         <mark key="'" line="128" column="34" />
@@ -71,7 +71,7 @@
         <mark key="^" line="52" column="47" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539550055428">
+      <file name="/Dummy.txt" timestamp="1541098033003">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="0" />
