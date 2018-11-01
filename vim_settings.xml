@@ -134,12 +134,12 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/TrainLog/logparser.py" timestamp="1540068385198">
-        <mark key="'" line="80" column="12" />
-        <mark key="[" line="63" column="28" />
-        <mark key="]" line="63" column="26" />
-        <mark key="." line="63" column="26" />
-        <mark key="^" line="63" column="26" />
+      <file name="$USER_HOME$/PycharmProjects/TrainLog/logparser.py" timestamp="1540069336129">
+        <mark key="'" line="91" column="12" />
+        <mark key="[" line="71" column="93" />
+        <mark key="]" line="72" column="23" />
+        <mark key="." line="72" column="23" />
+        <mark key="^" line="72" column="23" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/CodeWars/unitHashtag.py" timestamp="1539205053217">
         <mark key="[" line="41" column="0" />
@@ -200,16 +200,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>None</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>None</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhYWFcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgbSBpbiBzZWxmLm1sX2xpc3Q6CiAgICAgICAgICAgIG0uc2hvd195b3Vyc2VsZigpCg==</text>
+      <register name="0" type="4">
+        <text>range(len(pat[0])</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -259,7 +259,7 @@
         <text encoding="base64">ICAgICAgICAgICAgZGRkID0gcmUuc2VhcmNoKG1hX21zZyxmKQogICAgICAgICAgICBpZiBkZGQ6CiAgICAgICAgICAgICAgICBzZWxmLm1sX2xpc3QuYXBwZW5kKE1lc3NhZ2UoZix4KSkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -295,8 +295,9 @@
       <history-cmd>
         <entry>q</entry>
         <entry>vsplit</entry>
-        <entry>w</entry>
         <entry>g//</entry>
+        <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
