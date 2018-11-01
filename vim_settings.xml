@@ -9,9 +9,6 @@
         <mark key="^" line="23" column="52" />
         <mark key="." line="23" column="53" />
       </file>
-      <file name="/Python Console" timestamp="1541099376505">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/fragment.py" timestamp="1539527102315">
         <mark key="[" line="0" column="0" />
       </file>
@@ -50,12 +47,12 @@
         <mark key="." line="69" column="23" />
         <mark key="^" line="65" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/snake_solver/snake.py" timestamp="1541101554476">
+      <file name="$USER_HOME$/PycharmProjects/snake_solver/snake.py" timestamp="1541103052863">
         <mark key="'" line="82" column="16" />
-        <mark key="[" line="119" column="20" />
-        <mark key="]" line="120" column="24" />
-        <mark key="^" line="120" column="24" />
-        <mark key="." line="120" column="24" />
+        <mark key="[" line="103" column="21" />
+        <mark key="]" line="104" column="11" />
+        <mark key="^" line="104" column="11" />
+        <mark key="." line="104" column="11" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Sfinks/sbUnitTests.py" timestamp="1539356608876">
         <mark key="'" line="128" column="34" />
@@ -89,11 +86,11 @@
         <mark key="." line="13" column="29" />
         <mark key="^" line="14" column="32" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/snake_solver/UnitTest.py" timestamp="1539443403946">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="13" column="27" />
-        <mark key="^" line="13" column="27" />
-        <mark key="." line="13" column="27" />
+      <file name="$USER_HOME$/PycharmProjects/snake_solver/UnitTest.py" timestamp="1541102883316">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="1" />
+        <mark key="^" line="40" column="51" />
+        <mark key="." line="17" column="1" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/CodeWars/maszyna_losujaca.py" timestamp="1537553711662">
         <mark key="[" line="8" column="18" />
@@ -163,16 +160,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>horizontal_check</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>horizontal_check</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGFydF9lbmRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuaG9yaXpvbnRhbF9jaGVja1tlWzBdXSArPTEK</text>
+        <text encoding="base64">Li4uLi4uCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpZiBzZWxmLnN0YXJ0X2VuZDoKICAgICAgICAgICAgdGVtcCA9IHNlbGYuc3RhcnRfZW5kWzBdCiAgICAgICAgICAgICN0ZW1wLmV4dGVuZChbMCwtMV0pCiAgICAgICAgICAgICNzZWxmLm1vdmVzLmFwcGVuZCh0ZW1wKQo=</text>
