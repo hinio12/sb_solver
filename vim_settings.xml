@@ -50,12 +50,12 @@
         <mark key="." line="69" column="23" />
         <mark key="^" line="65" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/snake_solver/snake.py" timestamp="1541100204262">
-        <mark key="'" line="79" column="8" />
-        <mark key="[" line="187" column="23" />
-        <mark key="]" line="189" column="7" />
-        <mark key="^" line="189" column="7" />
-        <mark key="." line="189" column="7" />
+      <file name="$USER_HOME$/PycharmProjects/snake_solver/snake.py" timestamp="1541101554476">
+        <mark key="'" line="82" column="16" />
+        <mark key="[" line="119" column="20" />
+        <mark key="]" line="120" column="24" />
+        <mark key="^" line="120" column="24" />
+        <mark key="." line="120" column="24" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Sfinks/sbUnitTests.py" timestamp="1539356608876">
         <mark key="'" line="128" column="34" />
@@ -71,9 +71,9 @@
         <mark key="^" line="52" column="47" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541098033003">
+      <file name="/Dummy.txt" timestamp="1541100307591">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="16" />
+        <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/sb_solver/sb_solver.py" timestamp="1539419852931">
@@ -154,22 +154,28 @@
         <mark key="." line="25" column="33" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="83" column="24" filename="$USER_HOME$/PycharmProjects/snake_solver/snake.py" />
+      <jump line="108" column="9" filename="$USER_HOME$/PycharmProjects/snake_solver/snake.py" />
+      <jump line="42" column="13" filename="$USER_HOME$/PycharmProjects/snake_solver/snake.py" />
+      <jump line="61" column="25" filename="$USER_HOME$/PycharmProjects/snake_solver/snake.py" />
+      <jump line="82" column="16" filename="$USER_HOME$/PycharmProjects/snake_solver/snake.py" />
+    </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>k</text>
+        <text>horizontal_check</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>horizontal_check</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhYWFcPg==</text>
+        <text encoding="base64">XDxzdGFydF9lbmRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Li4uLi4uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuaG9yaXpvbnRhbF9jaGVja1tlWzBdXSArPTEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGsK</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLnN0YXJ0X2VuZDoKICAgICAgICAgICAgdGVtcCA9IHNlbGYuc3RhcnRfZW5kWzBdCiAgICAgICAgICAgICN0ZW1wLmV4dGVuZChbMCwtMV0pCiAgICAgICAgICAgICNzZWxmLm1vdmVzLmFwcGVuZCh0ZW1wKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -192,43 +198,42 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CnNzID0gU25ha2VTb2x2ZXIoZGF0YUlucHV0KQpwcmludChzcy5tb3ZlcykKcHJpbnQoc3MudmVydGljYWwpCnByaW50KHNzLmhvcml6b250YWwpCgpzcy5zb2x2ZSgpCgojZm9yIGkgaW4gcmFuZ2UoMTApOgojICAgIHNzLnNob3dfcmVzdWx0KCkKIyAgICAjcHJpbnQoc3MuZ29OZXh0KCkpCiMgICAgaWYgc3MuZ29OZXh0KCk9PUZhbHNlOgojCgoKcHJpbnQoc3MubW92ZXMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">MDAwMDAwCg==</text>
+        <text encoding="base64">ICAgIGRlZiBjaGVja19saXN0KHNlbGYsIHgseSwgZWxtKToKICAgICAgICAjIElzIGNoZWNraW5nIGlmIGZyb20gbG9jYXRpb24geCx5IGl0cyBwb3NzaWJsZSB0byBnbyBkaXJlY3Rpb24KICAgICAgICAjIGNhbiBnZXQgYXMgYXJndW1lbnQgbGlzdCBvciBvbmUgZWxlbWVudAogICAgICAgICMgc2V0IHhfZmxhZyAtIGNvbmRpdGlvbiB0byBlbmQKICAgICAgICBzZWxmLnhfZmxhZyA9IEZhbHNlCiAgICAgICAgZm9yIGVsIGluIGVsbToKICAgICAgICAgICAgaWYgMDw9eCtlbFswXTxzZWxmLm1heFggYW5kIDA8PXkrZWxbMV08c2VsZi5tYXhZOgogICAgICAgICAgICAgICAgaWYgc2VsZi50YWJsZVt5K2VsWzFdXVt4K2VsWzBdXT09Ii4iIDoKICAgICAgICAgICAgICAgICAgICBwYXNzCiAgICAgICAgICAgICAgICBlbGlmICBzZWxmLnRhYmxlW3krZWxbMV1dW3grZWxbMF1dPT0ieCI6CiAgICAgICAgICAgICAgICAgICAgc2VsZi54X2ZsYWcgPSBUcnVlCiAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgIHJldHVybiBGYWxzZQogICAgICAgIHJldHVybiBUcnVlCgogICAgZGVmIHBvc3NpYmxlX21vdmUoc2VsZix4LHksZGlyZWN0aW9uKToKICAgICAgICBpZiAwPD14K2RpcmVjdGlvblswXTxzZWxmLm1heFggYW5kIDA8PXkrZGlyZWN0aW9uWzFdPHNlbGYubWF4WToKICAgICAgICAgICAgaWYgc2VsZi50YWJsZVt5K2RpcmVjdGlvblsxXV1beCtkaXJlY3Rpb25bMF1dPT0iLiI6CiAgICAgICAgICAgICAgICBpZiBkaXJlY3Rpb24gPT0gU25ha2VTb2x2ZXIudXA6CiAgICAgICAgICAgICAgICAgICAgaWYgc2VsZi5jaGVja19saXN0KHgseSwgU25ha2VTb2x2ZXIudXBfY2hlY2spOgogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gVHJ1ZQogICAgICAgICAgICAgICAgICAgIGVsc2U6IHJldHVybiBGYWxzZQoKICAgICAgICAgICAgICAgIGlmIGRpcmVjdGlvbiA9PSBTbmFrZVNvbHZlci5yaWdodDoKICAgICAgICAgICAgICAgICAgICBpZiBzZWxmLmNoZWNrX2xpc3QoeCx5LCBTbmFrZVNvbHZlci5yaWdodF9jaGVjayk6CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBUcnVlCiAgICAgICAgICAgICAgICAgICAgZWxzZTogcmV0dXJuIEZhbHNlCgogICAgICAgICAgICAgICAgaWYgZGlyZWN0aW9uID09IFNuYWtlU29sdmVyLmRvd246CiAgICAgICAgICAgICAgICAgICAgaWYgc2VsZi5jaGVja19saXN0KHgseSwgU25ha2VTb2x2ZXIuZG93bl9jaGVjayk6CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBUcnVlCiAgICAgICAgICAgICAgICAgICAgZWxzZTogcmV0dXJuIEZhbHNlCgogICAgICAgICAgICAgICAgaWYgZGlyZWN0aW9uID09IFNuYWtlU29sdmVyLmxlZnQ6CiAgICAgICAgICAgICAgICAgICAgaWYgc2VsZi5jaGVja19saXN0KHgseSwgU25ha2VTb2x2ZXIubGVmdF9jaGVjayk6CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBUcnVlCiAgICAgICAgICAgICAgICAgICAgZWxzZTogcmV0dXJuIEZhbHNlCgogICAgICAgICAgICAgICAgcHJpbnQoImRkZGQiKQogICAgICAgICAgICAgICAgcmV0dXJuIFRydWUKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHJldHVybiBGYWxzZQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiBGYWxzZQoKICAgIGRlZiBnb05leHQoc2VsZik6CgogICAgICAgIGRpcmVjdGlvbnMgPSBbU25ha2VTb2x2ZXIudXAsIFNuYWtlU29sdmVyLnJpZ2h0LCBTbmFrZVNvbHZlci5sZWZ0LCBTbmFrZVNvbHZlci5kb3duXQogICAgICAgIHRyYW5zbGF0ZV9kaXJlY3Rpb25zID0gewogICAgICAgICAgICBzdHIoc2VsZi51cCkgOiAidXAiLAogICAgICAgICAgICBzdHIoc2VsZi5kb3duKSA6ICJkb3duIiwKICAgICAgICAgICAgc3RyKHNlbGYucmlnaHQpIDogInJpZ2h0IiwKICAgICAgICAgICAgc3RyKHNlbGYubGVmdCkgOiAibGVmdCIKCiAgICAgICAgfQoKICAgICAgICB4ID0gc2VsZi5tb3Zlc1stMV1bMF0KICAgICAgICB5ID0gc2VsZi5tb3Zlc1stMV1bMV0KCiAgICAgICAgZm9yIGQgaW4gZGlyZWN0aW9uczoKICAgICAgICAgICAgaWYgc2VsZi5wb3NzaWJsZV9tb3ZlKHgseSxkKToKICAgICAgICAgICAgICAgIHNlbGYudGFibGVbeStkWzFdXVt4K2RbMF1dPXNlbGYubW92ZXNbLTFdWzJdKzEKICAgICAgICAgICAgICAgIHNlbGYubW92ZXMuYXBwZW5kKFt4K2RbMF0seStkWzFdLHNlbGYubW92ZXNbLTFdWzJdKzEsdHJhbnNsYXRlX2RpcmVjdGlvbnNbc3RyKGQpXV0pCiAgICAgICAgICAgICAgICByZXR1cm4gVHJ1ZQoKCiAgICAgICAgcmV0dXJuIEZhbHNlCiAgICBkZWYgc29sdmUoc2VsZik6CiAgICAgICAgaWYgc2VsZi5wb3NzaWJsZV9tb3ZlKHNlbGYuc2VsZi51cCk6CiAgICAgICAgICAgIHNlbGYubW92ZXMuYXBwZW5kKDEpCgoKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0dHQgPSByZS5zZWFyY2gobWFfbXNnLHJhdykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0dHQgPSByZS5zZWFyY2gobWFfbXNnLHJhdykK</text>
+        <text encoding="base64">MDAwMDAwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0dHQgPSByZS5zZWFyY2gobWFfbXNnLHJhdykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2dnID0gcmUuc2VhcmNoKG1lc3NhZ2VfaWQsIGYpCg==</text>
+        <text encoding="base64">ICAgICAgICB0dHQgPSByZS5zZWFyY2gobWFfbXNnLHJhdykK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhYWFcPg==</last-search>
+      <last-search encoding="base64">XDxzdGFydF9lbmRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhYWFcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzdGFydF9lbmRcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXN1bHRHcmlkXD4=</entry>
         <entry encoding="base64">XDxwcmludFw+</entry>
         <entry>1000</entry>
         <entry>show</entry>
@@ -248,6 +253,7 @@
         <entry>l_section</entry>
         <entry encoding="base64">XDwpXD4=</entry>
         <entry encoding="base64">XDxhYWFcPg==</entry>
+        <entry encoding="base64">XDxzdGFydF9lbmRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
