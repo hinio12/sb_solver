@@ -18,12 +18,6 @@
       <file name="/a.dummy" timestamp="1540061826138">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/vim training/plug_uno.vim" timestamp="1541317913313">
-        <mark key="[" line="22" column="18" />
-        <mark key="]" line="22" column="18" />
-        <mark key="." line="22" column="18" />
-        <mark key="^" line="22" column="18" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/TrainLog/sample1.py" timestamp="1539805095929">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -153,6 +147,12 @@
         <mark key="]" line="41" column="0" />
         <mark key="^" line="35" column="204" />
         <mark key="." line="41" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1541330429288">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/LogAnalyzeTool/logtool.py" timestamp="1537130017820">
         <mark key="[" line="25" column="28" />
