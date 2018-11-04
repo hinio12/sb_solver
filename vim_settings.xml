@@ -18,6 +18,12 @@
       <file name="/a.dummy" timestamp="1540061826138">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/vim training/plug_uno.vim" timestamp="1541317913313">
+        <mark key="[" line="22" column="18" />
+        <mark key="]" line="22" column="18" />
+        <mark key="." line="22" column="18" />
+        <mark key="^" line="22" column="18" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/TrainLog/sample1.py" timestamp="1539805095929">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -184,11 +190,11 @@
       <jump line="1" column="0" filename="$USER_HOME$/PycharmProjects/snake_solver/snake.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>[self.cur_pos_y+elm[1]][self.cur_pos_x+elm[0]]</text>
+      <register name="&quot;" type="4">
+        <text>.regex</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>.regex</text>
       </register>
       <register name="/" type="4">
         <text>last</text>
