@@ -9,7 +9,7 @@
         <mark key="^" line="23" column="52" />
         <mark key="." line="23" column="53" />
       </file>
-      <file name="/Python Console" timestamp="1541191357909">
+      <file name="/Python Console" timestamp="1541938521758">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1539527102315">
@@ -142,6 +142,12 @@
         <mark key="." line="72" column="23" />
         <mark key="^" line="72" column="23" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" timestamp="1541938724548">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="7" column="3" />
+        <mark key="^" line="7" column="3" />
+        <mark key="." line="7" column="3" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/CodeWars/unitHashtag.py" timestamp="1539205053217">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
@@ -191,10 +197,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.regex</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>.regex</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>last</text>
