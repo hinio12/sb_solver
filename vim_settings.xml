@@ -148,12 +148,12 @@
         <mark key="." line="72" column="23" />
         <mark key="^" line="72" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" timestamp="1541967288407">
+      <file name="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" timestamp="1541968802180">
         <mark key="'" line="66" column="20" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="102" column="31" />
-        <mark key="." line="102" column="31" />
-        <mark key="^" line="102" column="31" />
+        <mark key="[" line="111" column="11" />
+        <mark key="]" line="111" column="12" />
+        <mark key="." line="111" column="12" />
+        <mark key="^" line="111" column="12" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/CodeWars/unitHashtag.py" timestamp="1539205053217">
         <mark key="[" line="41" column="0" />
@@ -221,38 +221,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>positive_cond</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>positive_cond</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
-        <text>sum po</text>
+        <text encoding="base64">XDwpXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">c3VtICgxIGZvciB4IGluIGhvcml6b250YWxfdmVydGljYWwgaWYgeCA+PSAwKQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">cHJpbnQoZml0bmVzX25vcm1hbGl6YXRlZCkK</text>
       </register>
-      <register name="1" type="8">
-        <text>#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -274,38 +255,57 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
+      <register name="2" type="8">
+        <text>#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">YXRldGltZS5kYXRldGltZS5ub3coKSkK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAxMTAwMQogICAgICAgIDAxMDAxCiAgICAgICAgMDEwMTAKICAgICAgICAwMTExMQogICAgICAgIDEwMTAwCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1heF9yZXM9MAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1heF9yZXM9MAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGtra2tra2tra2sK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICAgIGtra2tra2tra2sK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sum po</last-search>
+      <last-search encoding="base64">XDwpXD4=</last-search>
       <last-offset />
-      <last-pattern>sum po</last-pattern>
+      <last-pattern encoding="base64">XDwpXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -319,7 +319,6 @@
         <entry>nid_messag</entry>
         <entry>nid_packet=15</entry>
         <entry>l_section</entry>
-        <entry encoding="base64">XDwpXD4=</entry>
         <entry encoding="base64">XDxhYWFcPg==</entry>
         <entry encoding="base64">XDxzdGFydF9lbmRcPg==</entry>
         <entry encoding="base64">XDxnZXRfbmV4dFw+</entry>
@@ -331,6 +330,7 @@
         <entry>last</entry>
         <entry>num</entry>
         <entry>sum po</entry>
+        <entry encoding="base64">XDwpXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
