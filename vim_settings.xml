@@ -148,11 +148,12 @@
         <mark key="." line="72" column="23" />
         <mark key="^" line="72" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" timestamp="1541952832324">
-        <mark key="[" line="6" column="59" />
-        <mark key="]" line="6" column="59" />
-        <mark key="^" line="6" column="59" />
-        <mark key="." line="6" column="59" />
+      <file name="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" timestamp="1541954371600">
+        <mark key="'" line="64" column="20" />
+        <mark key="[" line="90" column="68" />
+        <mark key="]" line="90" column="78" />
+        <mark key="." line="90" column="78" />
+        <mark key="^" line="90" column="78" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/CodeWars/unitHashtag.py" timestamp="1539205053217">
         <mark key="[" line="41" column="0" />
@@ -200,22 +201,39 @@
       <jump line="112" column="8" filename="$USER_HOME$/PycharmProjects/snake_solver/snake.py" />
       <jump line="53" column="4" filename="$USER_HOME$/PycharmProjects/snake_solver/snake.py" />
       <jump line="1" column="0" filename="$USER_HOME$/PycharmProjects/snake_solver/snake.py" />
+      <jump line="31" column="16" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="43" column="14" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="44" column="16" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="46" column="13" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="47" column="17" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="49" column="14" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="50" column="16" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="52" column="13" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="53" column="30" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="55" column="17" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="57" column="21" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="58" column="25" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="59" column="25" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="60" column="29" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="61" column="24" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="62" column="29" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="63" column="20" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>str(bin(random.randint(0,2**25)))[2:].zfill(25)</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>str(bin(random.randint(0,2**25)))[2:].zfill(25)</text>
       </register>
       <register name="/" type="4">
-        <text>last</text>
+        <text>sum po</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtaW5lU3VtLnNpemVIID0gNQogICAgICAgIG1pbmVTdW0uc2l6ZVYgPSA1CiAgICAgICAgaW5wdXQgPSAiMDAxMDExMTExMTAxMDExMTExMTAwMTAxMCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGtra2tra2tra2sK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -238,45 +256,42 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICAgIG1heF9yZXM9MAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdDoKICAgICAgICBwcmludChoX2NvdW50LmV4dGVuZCh2X2NvdW50KSkKICAgICAgICBwcmludCAoIm51bSB7fSBudW0gLy9zaXplaHt9IG51bSVzaXplIHt9Ii5mb3JtYXQobnVtLG51bS8vc2l6ZUgsbnVtJXNpemVIKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChoX2NvdW50LmV4dGVuZCh2X2NvdW50KSkK</text>
+        <text encoding="base64">ICAgIGtra2tra2tra2sK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJlbG8iKQo=</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KGhfY291bnQrdl9jb3VudCkK</text>
+        <text encoding="base64">ICAgIGV4Y2VwdDoKICAgICAgICBwcmludChoX2NvdW50LmV4dGVuZCh2X2NvdW50KSkKICAgICAgICBwcmludCAoIm51bSB7fSBudW0gLy9zaXplaHt9IG51bSVzaXplIHt9Ii5mb3JtYXQobnVtLG51bS8vc2l6ZUgsbnVtJXNpemVIKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBoX2NvdW50LmV4dGVuZCh2X2NvdW50KQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChoX2NvdW50LmV4dGVuZCh2X2NvdW50KSkK</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">ICoKICo=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaW50KCJlbG8iKQo=</text>
       </register>
-      <register name="9" type="8">
-        <text>[0]
-[0]</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByaW50KGhfY291bnQrdl9jb3VudCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>last</last-search>
+      <last-search>sum po</last-search>
       <last-offset />
-      <last-pattern>last</last-pattern>
+      <last-pattern>sum po</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2ZXJ0aWNhbFw+</entry>
-        <entry encoding="base64">XDx0MVw+</entry>
         <entry encoding="base64">XDx0YWJsZVw+</entry>
         <entry>check</entry>
         <entry encoding="base64">XDxpZDJcPg==</entry>
@@ -295,6 +310,8 @@
         <entry encoding="base64">XDxyZW1vdmVfY3VycmVudFw+</entry>
         <entry>solv</entry>
         <entry>last</entry>
+        <entry>num</entry>
+        <entry>sum po</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
