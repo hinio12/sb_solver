@@ -148,12 +148,12 @@
         <mark key="." line="72" column="23" />
         <mark key="^" line="72" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" timestamp="1541956669618">
+      <file name="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" timestamp="1541965053693">
         <mark key="'" line="64" column="20" />
-        <mark key="[" line="102" column="8" />
-        <mark key="]" line="104" column="8" />
-        <mark key="." line="104" column="8" />
-        <mark key="^" line="104" column="8" />
+        <mark key="[" line="106" column="10" />
+        <mark key="]" line="111" column="0" />
+        <mark key="." line="111" column="0" />
+        <mark key="^" line="111" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/CodeWars/unitHashtag.py" timestamp="1539205053217">
         <mark key="[" line="41" column="0" />
@@ -220,8 +220,8 @@
       <jump line="63" column="20" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>datetime.datetime.now()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>datetime.datetime.now()</text>
@@ -232,8 +232,8 @@
       <register name="0" type="2">
         <text encoding="base64">cHJpbnQoZGF0ZXRpbWUuZGF0ZXRpbWUubm93KCkpCgo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">YXRldGltZS5kYXRldGltZS5ub3coKSkK</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -255,29 +255,29 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAxMTAwMQogICAgICAgIDAxMDAxCiAgICAgICAgMDEwMTAKICAgICAgICAwMTExMQogICAgICAgIDEwMTAwCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">YXRldGltZS5kYXRldGltZS5ub3coKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAxMTAwMQogICAgICAgIDAxMDAxCiAgICAgICAgMDEwMTAKICAgICAgICAwMTExMQogICAgICAgIDEwMTAwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1heF9yZXM9MAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIG1heF9yZXM9MAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGtra2tra2tra2sK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICAgIGtra2tra2tra2sK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdDoKICAgICAgICBwcmludChoX2NvdW50LmV4dGVuZCh2X2NvdW50KSkKICAgICAgICBwcmludCAoIm51bSB7fSBudW0gLy9zaXplaHt9IG51bSVzaXplIHt9Ii5mb3JtYXQobnVtLG51bS8vc2l6ZUgsbnVtJXNpemVIKSkK</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChoX2NvdW50LmV4dGVuZCh2X2NvdW50KSkK</text>
+        <text encoding="base64">ICAgIGV4Y2VwdDoKICAgICAgICBwcmludChoX2NvdW50LmV4dGVuZCh2X2NvdW50KSkKICAgICAgICBwcmludCAoIm51bSB7fSBudW0gLy9zaXplaHt9IG51bSVzaXplIHt9Ii5mb3JtYXQobnVtLG51bS8vc2l6ZUgsbnVtJXNpemVIKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
