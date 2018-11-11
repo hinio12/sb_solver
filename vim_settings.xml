@@ -58,11 +58,11 @@
         <mark key="." line="206" column="0" />
         <mark key="^" line="202" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/testForMine.py" timestamp="1541952791851">
-        <mark key="[" line="68" column="43" />
-        <mark key="]" line="69" column="57" />
-        <mark key="." line="69" column="57" />
-        <mark key="^" line="69" column="57" />
+      <file name="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/testForMine.py" timestamp="1541971144338">
+        <mark key="[" line="74" column="76" />
+        <mark key="]" line="76" column="3" />
+        <mark key="." line="76" column="3" />
+        <mark key="^" line="76" column="3" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/Sfinks/sbUnitTests.py" timestamp="1539356608876">
         <mark key="'" line="128" column="34" />
@@ -148,12 +148,12 @@
         <mark key="." line="72" column="23" />
         <mark key="^" line="72" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" timestamp="1541969573157">
-        <mark key="'" line="66" column="20" />
-        <mark key="[" line="137" column="40" />
-        <mark key="]" line="136" column="29" />
-        <mark key="." line="136" column="29" />
-        <mark key="^" line="136" column="29" />
+      <file name="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" timestamp="1541972736688">
+        <mark key="'" line="129" column="11" />
+        <mark key="[" line="132" column="17" />
+        <mark key="]" line="132" column="17" />
+        <mark key="." line="132" column="17" />
+        <mark key="^" line="132" column="17" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/CodeWars/unitHashtag.py" timestamp="1539205053217">
         <mark key="[" line="41" column="0" />
@@ -204,36 +204,66 @@
       <jump line="31" column="16" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
       <jump line="43" column="14" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
       <jump line="44" column="16" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
-      <jump line="46" column="13" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
-      <jump line="47" column="17" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
-      <jump line="49" column="14" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
-      <jump line="50" column="16" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
-      <jump line="52" column="13" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
-      <jump line="53" column="30" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
-      <jump line="55" column="17" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
       <jump line="57" column="21" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
-      <jump line="58" column="25" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
       <jump line="59" column="25" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
-      <jump line="60" column="29" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
-      <jump line="61" column="24" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
-      <jump line="62" column="29" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
-      <jump line="63" column="20" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="157" column="22" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="20" column="8" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="21" column="24" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="22" column="102" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="23" column="77" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="24" column="76" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="46" column="14" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="47" column="16" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="49" column="13" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="50" column="17" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="52" column="14" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="53" column="16" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="55" column="13" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="56" column="30" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="58" column="17" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="60" column="21" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="61" column="25" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="62" column="25" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="64" column="24" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="65" column="29" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="66" column="20" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="67" column="25" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="68" column="25" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="69" column="29" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="70" column="24" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="71" column="29" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="73" column="21" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="74" column="25" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="75" column="20" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="76" column="25" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="150" column="22" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="160" column="85" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="92" column="8" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="95" column="13" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="113" column="33" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="146" column="35" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="86" column="5" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="63" column="5" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="3" column="15" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="161" column="50" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="0" column="5" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
+      <jump line="129" column="11" filename="$USER_HOME$/PycharmProjects/MineSumGenAlgorithm/mineSum.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>100</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>100</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwpXD4=</text>
+        <text encoding="base64">XDw1MFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">cHJpbnQoZml0bmVzX25vcm1hbGl6YXRlZCkK</text>
+      <register name="0" type="4">
+        <text>next_generation[random.choice(parent_index_table)]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSByYW5kb20gaW1wb3J0ICoKZnJvbSBtYXRoIGltcG9ydCAqCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -255,7 +285,17 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="8">
+      <register name="2" type="4">
+        <text>next_generation[random.choice(parent_index_table)],
+                                  next_generation[random.choice(parent_index_table)],random.randint(1,49)</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKDEwMCk6Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="8">
         <text>#
 #
 #
@@ -277,46 +317,31 @@
 #
 #</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">YXRldGltZS5kYXRldGltZS5ub3coKSkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAxMTAwMQogICAgICAgIDAxMDAxCiAgICAgICAgMDEwMTAKICAgICAgICAwMTExMQogICAgICAgIDEwMTAwCg==</text>
-      </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIG1heF9yZXM9MAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">YXRldGltZS5kYXRldGltZS5ub3coKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAxMTAwMQogICAgICAgIDAxMDAxCiAgICAgICAgMDEwMTAKICAgICAgICAwMTExMQogICAgICAgIDEwMTAwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGtra2tra2tra2sK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwpXD4=</last-search>
+      <last-search encoding="base64">XDw1MFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwpXD4=</last-pattern>
+      <last-pattern encoding="base64">XDw1MFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0YWJsZVw+</entry>
-        <entry>check</entry>
-        <entry encoding="base64">XDxpZDJcPg==</entry>
-        <entry encoding="base64">XDxQbXdcPg==</entry>
-        <entry>m132</entry>
-        <entry>nid_messag</entry>
         <entry>nid_packet=15</entry>
         <entry>l_section</entry>
         <entry encoding="base64">XDxhYWFcPg==</entry>
@@ -328,9 +353,15 @@
         <entry encoding="base64">XDxyZW1vdmVfY3VycmVudFw+</entry>
         <entry>solv</entry>
         <entry>last</entry>
-        <entry>num</entry>
         <entry>sum po</entry>
         <entry encoding="base64">XDwpXD4=</entry>
+        <entry>[num]==</entry>
+        <entry>num</entry>
+        <entry>randi</entry>
+        <entry>math</entry>
+        <entry>choi</entry>
+        <entry>random</entry>
+        <entry encoding="base64">XDw1MFw+</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
